@@ -1,0 +1,13 @@
+公司翻墙需要配置指定的静态IP和DNS，但是做性能测试时，又必须关闭翻墙代理。为了节约人工配置的时间，开发此客户端。
+
+**使用方法**
+
+1、以管理员身份运行网络切换工具
+
+2、人工选择联网网卡，然后点击【绿色上网】
+
+![image-20200413143535546](C:\Users\yaoch\AppData\Roaming\Typora\typora-user-images\image-20200413143535546.png)
+
+3、如果需要取消翻墙代理，则直接点击【还原网络】，此时将自动获取IP和DNS。
+
+![image-20200413143743107](C:\Users\yaoch\AppData\Roaming\Typora\typora-user-images\image-20200413143743107.png)
